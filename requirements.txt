@@ -27,7 +27,7 @@ Jinja2==3.1.6
 joblib==1.5.3
 kiwisolver==1.4.9
 lazy_loader==0.4
-mamba-ssm @ file:///root/autodl-tmp/SFMFusion/mamba_ssm-2.0.4%2Bcu118torch2.1cxx11abiFALSE-cp310-cp310-linux_x86_64.whl#sha256=69918f7e258c5caf2fa11e0e3623372c7e0c38c5704898676c33a89f205509af
+mamba-ssm==2.0.4
 Markdown==3.10
 MarkupSafe==2.1.5
 matplotlib==3.10.8
@@ -59,7 +59,7 @@ scikit-image==0.25.2
 scikit-learn==1.7.2
 scipy==1.15.3
 seaborn==0.13.2
-selective_scan @ file:///root/autodl-tmp/CIPA/models/encoders/selective_scan
+-e ./models/vmamba/selective_scan
 simpleitk==2.5.3
 simsimd==6.5.8
 six==1.17.0
